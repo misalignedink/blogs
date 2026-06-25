@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Typing at a Speed Which Is Above Average"
-author: "Sayak"
+author: "Sayak Majumder"
 tags: Typing
 ---
 
