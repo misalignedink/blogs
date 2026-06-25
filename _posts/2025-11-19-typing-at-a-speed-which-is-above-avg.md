@@ -52,7 +52,7 @@ All the best! If you're curious about my speed right now, my best is **112 WPM**
 <p align="center">
   <a href="https://monkeytype.com/profile/majumd3r" target="_blank">
     <img
-      src="/assets/images/posts/2025-11-19/monkeytype-profile-stats.png"
+      src="https://raw.githubusercontent.com/misalignedink/blogs/refs/heads/master/assets/images/posts/2025-11-19/monkeytype-profile-stats.png"
       alt="Monkeytype Profile Stats"
       width="670"
       style="border-radius: 12px;"
